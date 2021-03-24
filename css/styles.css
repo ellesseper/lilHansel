@@ -137,7 +137,10 @@ p {
 /* pricing section */
 #pricing {
     text-align: center;
-    padding: 50px;
+    padding: 100px;
+}
+.pricing-column {
+    padding: 3% 2%;
 }
 #footer {
     text-align: center;
