@@ -139,8 +139,8 @@ p {
     text-align: center;
     padding: 100px;
 }
-.pricing-column {
-    padding: 3% 2%;
+.pricing-btn {
+    margin-top: 40px;
 }
 #footer {
     text-align: center;
