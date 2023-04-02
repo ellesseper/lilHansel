@@ -23,11 +23,19 @@ h1, h2, h3, h4, h5, h6 {
 .phone-img {
     position: relative;
     transform: rotate(25deg);
+<<<<<<< HEAD
     width: 250px; 
     padding-top: 0; 
 }
 
 .header-text {
+=======
+    width: 60%; 
+    padding-top: 0; 
+}
+
+.Big-Heading {
+>>>>>>> 64ca661 (Fixed the container of main visual)
     font-size: 3.5rem;
     line-height: 1.5;
 }
